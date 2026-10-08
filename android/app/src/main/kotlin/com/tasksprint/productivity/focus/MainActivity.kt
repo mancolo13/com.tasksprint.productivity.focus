@@ -1,4 +1,4 @@
-package com.pulsefit.workout.hiit
+package com.tasksprint.productivity.focus
 
 import io.flutter.embedding.android.FlutterActivity
 
